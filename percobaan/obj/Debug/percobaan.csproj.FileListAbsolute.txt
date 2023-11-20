@@ -1,0 +1,38 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\bin\Debug\percobaan.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\bin\Debug\percobaan.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\bin\Debug\percobaan.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.Form_login.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.dashboard.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.Forms.FormDataBarang.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.Forms.FormDataPengeluaran.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.Forms.FormTransaksi.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.Forms.FormDataAdmin.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.Forms.FormDataTransaksi.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\percobaan\percobaan\obj\Debug\percobaan.Forms.Home.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\bin\Debug\percobaan.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\bin\Debug\percobaan.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\bin\Debug\percobaan.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.dashboard.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.Forms.FormDataAdmin.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.Forms.FormDataBarang.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.Forms.FormDataPengeluaran.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.Forms.FormDataTransaksi.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.Forms.FormTransaksi.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.Form_login.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.Forms.Home.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\GIVEAWAY VICKY NAGIH\GIVEAWAY VICKY NAGIH\percobaan\percobaan\percobaan\obj\Debug\percobaan.csproj.GenerateResource.Cache
