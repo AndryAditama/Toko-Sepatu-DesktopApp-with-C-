@@ -1,0 +1,4 @@
+- ini adalah aplikasi CRUD dengan case sebagai aplikasi toko sepatu
+- di dalamnya terdapat CRUD data dan gambar
+- aplikasi ini menggunakan MySQL sebagai Database
+- aplikasi ini dibuat sebagai Tugas Matakuliah PEmrograman Visual
